@@ -1,0 +1,14 @@
+C:\Users\darkg\Documents\6to Semestre\Vinculacion profesional\Instalador\Spark.exe
+C:\Users\darkg\Documents\6to Semestre\Vinculacion profesional\Instalador\Spark.dll
+C:\Users\darkg\Documents\6to Semestre\Vinculacion profesional\Instalador\Spark.deps.json
+C:\Users\darkg\Documents\6to Semestre\Vinculacion profesional\Instalador\Spark.runtimeconfig.json
+C:\Users\darkg\Documents\6to Semestre\Vinculacion profesional\Instalador\Spark.pdb
+C:\Users\darkg\Documents\6to Semestre\Vinculacion profesional\Instalador\Interop.TxDataConvert.dll
+C:\Users\darkg\Documents\6to Semestre\Vinculacion profesional\Instalador\Interop.TxAgg.dll
+C:\Users\darkg\Documents\6to Semestre\Vinculacion profesional\Instalador\Interop.SSCE.dll
+C:\Users\darkg\Documents\6to Semestre\Vinculacion profesional\Instalador\System.Data.SqlClient.dll
+C:\Users\darkg\Documents\6to Semestre\Vinculacion profesional\Instalador\runtimes\win-arm64\native\sni.dll
+C:\Users\darkg\Documents\6to Semestre\Vinculacion profesional\Instalador\runtimes\win-x64\native\sni.dll
+C:\Users\darkg\Documents\6to Semestre\Vinculacion profesional\Instalador\runtimes\win-x86\native\sni.dll
+C:\Users\darkg\Documents\6to Semestre\Vinculacion profesional\Instalador\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\darkg\Documents\6to Semestre\Vinculacion profesional\Instalador\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
